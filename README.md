@@ -18,7 +18,7 @@ Codejam is the ultimate test of courage, mental strength and physical durability
 
 ## Particulars
 - Main Communication Channel: [OSDC Discord](https://discord.com/invite/GDVytHUZXC)
-- Theme: Tools 🛠️
+- Theme: Games o|x
 
 **NOTE:** This is an online only event. Team members will have to work and collaborate online using discord and other means of communication.
 
