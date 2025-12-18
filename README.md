@@ -1,4 +1,5 @@
-![CODEJAM]()
+
+![CODEJAM](banner.jpg)
 <div align="center">
 <h1> Welcome to OSDCodeJam-v6!</h1>
 </div>
