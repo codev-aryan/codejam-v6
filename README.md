@@ -14,16 +14,16 @@
 - [Judging](#judging)
 
 ## What is Code Jam?
-Codejam is the ultimate test of courage, mental strength and physical durability (jk lol), It is a unique online hackathon where you are paired up with a group of random participants just like yourself with whom you collaborate and make a project on a given theme. You then have around a week's time to create the best project you can. See [Format](#format) for detailed information. This is a joint event organized every year by OSDC and JODC.
+Codejam is the ultimate test of courage, mental strength and physical durability (jk lol), It is a unique online hackathon where you are paired up with a group of random participants just like yourself with whom you collaborate and make a project on a given theme. You then have around a week's time to create the best project you can. See [Format](#format) for detailed information. 
 
 ## Particulars
-- Main Communication Channel: [OSDC Discord](https://discord.com/invite/GDVytHUZXC)
+- Main Communication Channel: [OSDC Discord](https://discord.com/invite/nkMtGKKy)
 - Theme: Games o|x
 
 **NOTE:** This is an online only event. Team members will have to work and collaborate online using discord and other means of communication.
 
 ## Timeline
-17–18 Dec- Registrations Open
+19 Dec- Registrations Open
 26 Dec- The Jam Kicks Off
 28 Dec- Mid-point Checkpoint
 30 Dec- Final Evaluation & Results
@@ -33,7 +33,7 @@ Codejam is the ultimate test of courage, mental strength and physical durability
 - The organizers group the participants in teams of 4 (or 5, depending on the number of registrations) based on their skills and experience to have teams with equal skill levels.
 - The organizers announce the teams and theme for the Jam.
 - Team members communicate and collaborate to make a project within the 5 days of the - Jam that fits their interpretation of the theme.
-- All communications will be through the [OSDC Discord Server](https://discord.com/invite/GDVytHUZXC).
+- All communications will be through the [OSDC Discord Server](https://discord.com/invite/nkMtGKKy).
 - Teams showcase their ideas during the mid evaluation.
 - The guest judges (alumnis) choose the winners based on the judging criteria.
 - Prize Money: ₹3,000, ₹2,000, ₹1,000 for top 3 teams.
