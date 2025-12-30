@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Game Palette - Cool winter tones */
+  --background: 222 47% 11%;
+  --foreground: 210 40% 98%;
+
+  --card: 222 47% 15%;
+  --card-foreground: 210 40% 98%;
+
+  --popover: 222 47% 15%;
+  --popover-foreground: 210 40% 98%;
+
+  --primary: 190 90% 50%; /* Ice blue cyan */
+  --primary-foreground: 222 47% 11%;
+
+  --secondary: 262 83% 68%; /* Soft purple */
+  --secondary-foreground: 210 40% 98%;
+
+  --muted: 217 33% 17%;
+  --muted-foreground: 215 20% 65%;
+
+  --accent: 330 80% 60%; /* Warm pink for accents */
+  --accent-foreground: 210 40% 98%;
+
+  --destructive: 0 62% 30%;
+  --destructive-foreground: 210 40% 98%;
+
+  --border: 217 33% 20%;
+  --input: 217 33% 20%;
+  --ring: 190 90% 50%;
+
+  --radius: 0.75rem;
+
+  /* Custom Fonts */
+  --font-display: 'Mountains of Christmas', cursive;
+  --font-body: 'Quicksand', sans-serif;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased overflow-hidden selection:bg-primary/20;
+    font-family: var(--font-body);
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    @apply font-bold;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  }
+  .text-glow {
+    text-shadow: 0 0 10px hsla(var(--primary), 0.5), 0 0 20px hsla(var(--primary), 0.3);
+  }
+}
+
+/* Custom Animations */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+canvas {
+  display: block;
+  touch-action: none; /* Prevent scrolling on mobile tap */
+}
