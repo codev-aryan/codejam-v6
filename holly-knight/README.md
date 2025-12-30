@@ -24,6 +24,13 @@ We interpreted the theme by architecting a digital cure for developer fatigue.
 
 ---
 
+### 🎥 Gameplay Demo
+
+[Watch the AuroraDash Gameplay Video](./AuroraDash-demo-gameplay.mp4)
+
+[Youtube](https://youtu.be/C3NT7L_8EvA)
+
+---
 ## 🕹️ Gameplay Mechanics & Power-ups
 
 Navigate the snowy terrain and use your developer toolkit to survive:
